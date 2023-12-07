@@ -1,0 +1,2 @@
+# HibernateApp
+Практика создания HQL 
